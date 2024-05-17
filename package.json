@@ -15,7 +15,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "test-lib-create": "file:../test-lib-create/test-lib-create-0.0.2.tgz",
+    "test-lib-create": "file:src/local_repo/test-lib-create-0.0.2.tgz",
     "vue": "^3.4.21"
   },
   "devDependencies": {
